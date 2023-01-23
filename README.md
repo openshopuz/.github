@@ -1,2 +1,0 @@
-# .github
-OPENSHOP Public Information
