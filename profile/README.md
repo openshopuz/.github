@@ -32,10 +32,16 @@ Biz faqat **sifatli** va **barqaror** mahsulotlar yaratamiz.
 
 ---
 
+## 👨‍💻 Co-Founder & CTO
+**[@uzsoftic](https://github.com/uzsoftic)**  
+📨 Telegram: [t.me/uzsoftic](https://t.me/uzsoftic)  
+
+---
+
 ## 📢 Bizga qo‘shiling!
 Agar siz IT sohasida o‘sishni, qiziqarli loyihalarda ishlashni va kuchli jamoa bilan birga rivojlanishni istasangiz — OPENSHOP.UZ siz uchun to‘g‘ri tanlov.
 
-📧 Aloqa: `hr@openshop.uz`  
+📧 Aloqa: `dev@openshop.uz`  
 🌐 [openshop.uz](https://openshop.uz)
 
 ---
