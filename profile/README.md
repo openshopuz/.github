@@ -33,8 +33,8 @@ Biz faqat **sifatli** va **barqaror** mahsulotlar yaratamiz.
 ---
 
 ## 👨‍💻 Co-Founder & CTO
-**[@uzsoftic](https://github.com/uzsoftic)**  
-📨 Telegram: [t.me/uzsoftic](https://t.me/uzsoftic)  
+🐙 Github: **[@uzsoftic](https://github.com/uzsoftic)**  
+✈️ Telegram: **[@uzsoftic](https://t.me/uzsoftic)**
 
 ---
 
